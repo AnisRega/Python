@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+-<users>
+  <user age="38" name="Rocky" id="1"/>
+  <user age="50" name="Steve" id="2"/>
+  <user age="38" name="Melinda" id="3"/>
+</users>
