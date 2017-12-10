@@ -1,0 +1,25 @@
+https://www.linux.com/learn/how-use-incron-monitor-important-files-and-folders
+https://mafayyaz.wordpress.com/2013/02/08/writing-simple-http-server-in-python-with-rest-and-json/
+https://chartio.com/resources/tutorials/how-to-delete-data-from-elasticsearch/
+https://stackoverflow.com/questions/40196732/an-empty-file-after-sending-it-to-tcp-server-in-python
+
+
+Installation de ElasticSerch
+apt-get install python-setuptools python-dev build-essential
+apt-get install python-pip
+pip install elasticsearch
+pip install elasticsearch_dsl
+pip install arrow
+
+localhost:9200/index/type/document
+
+
+GET /_cat/indices?v
+http://localhost:9200/twitter/_search?pretty=true&q=*:*
+
+
+
+ps -ef
+sudo kill -9 5654
+
+500*2.93 1465
